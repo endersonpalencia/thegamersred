@@ -1,0 +1,174 @@
+* {
+	margin:0%;
+	padding:0%;
+}
+
+.gamers-tops{
+	padding: 60px 0;
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+	overflow: hidden;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+	background-color:#f4eeee;
+}
+
+.img-tops{
+	width:35%;
+	border: 7px solid #100152; 
+}
+
+.img-top{
+	width:20%;
+}
+
+.titulo {
+	color: #464646;
+	font-size: 30px;
+	text-align: center;
+
+}
+
+/*header*/
+
+header {
+	width: 100%;
+	height: 550px;
+	background-image: url(../imagenes/ender.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	position: relative;
+}
+
+nav {
+	text-align: right;
+	padding: 30px 50px 0 0;
+   
+
+}
+nav > a {
+	color: #fff;
+	font-weight: 300;
+	text-decoration: none;
+	margin-right: 10px;
+
+}
+  
+nav > a:hover {
+	text-decoration: underline;
+}
+
+section.textos-header{
+	display: flex;
+	height: 430px;
+	width: 100%;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	text-align: center;
+}
+
+.textos-header h1{
+	font-size: 50px;
+	color: #ffff;
+
+}
+  
+.textos-header h2{
+	font-size: 30px;
+	font-weight: 300px;
+	color: #fff; 
+
+
+}  
+
+.wave {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+
+#somos-jugadores .container .img {
+	width: 50%;
+	text-align: center;
+}
+
+#somos-jugadores .container .img .img-tops {
+	width: 70%;
+}
+
+#somos-jugadores .container .txt {
+	width: 50%;
+	padding-right: 30px;
+}
+
+#somos-jugadores .container .txt h3 {
+	margin-top: 30px;
+	border-radius:50%
+	display:inline-block;
+
+}
+
+#somos-jugadores h2 {
+	text-align: center;
+	font-size: 50px;
+}
+
+#somos-jugadores .container {
+	margin: 40px 0;
+	display: flex;
+}
+
+.imagenes-gamers-tops{
+	width: 24%;
+
+}
+
+.imagenes-nosotros div {
+	text-align: center;
+ 
+}
+
+iframe{
+	width: 40%
+	margin-top:20px;
+	border: 5px solid #410545;
+	margin-bottom: 10px;
+}
+
+div h2{
+	text-align: center;
+	margin-top: 3%;
+	margin-bottom: 3%;
+	font-size: 40%,
+}
+
+footer {
+    width: 100%;
+    height: 60px;
+    background-color: #2e063a;
+    color: white;
+    text-align: center;
+}
+
+.img-top{
+ border: 4px solid #120358;
+
+}
+
+.redes {
+	text-align: center;
+	
+}
+
+
+
+
+
+
+
